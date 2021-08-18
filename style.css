@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background: linear-gradient(#05fa3e 0%, #f207a8 100% );
+}
+img{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+}
+.menu{
+    float:right;
+    top:30px;
+    right:30px;
+    cursor:pointer;
+}
